@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "fullname": "Trần Quang Tùng",
+      "email": "tranquangtung26062005@gmail.com",
+      "password": "Tung@2005",
+      "password_confirmation": "Tung@2005"
+    },
+    {
+      "id": "d003",
+      "fullname": "Doãn Hoài Nam",
+      "email": "dthdoanhoainam3125@gmail.com",
+      "password": "DoaiHaiNam",
+      "password_confirmation": "DoaiHaiNam"
+    },
+    {
+      "id": "d004",
+      "fullname": "Doãn Hoài Nam",
+      "email": "dthdoanhoainam@gmail.com",
+      "password": "Thongcute",
+      "password_confirmation": "Thongcute"
+    }
+  ]
